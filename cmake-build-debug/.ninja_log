@@ -1,0 +1,7 @@
+# ninja log v5
+3	572	7377751668639373	build.ninja	49f44ab252301f78
+4	901	7521878271520313	CMakeFiles/Balls.dir/main.cpp.obj	cff4dbf5e09cc1ad
+901	1077	7521878273260706	Balls.exe	dc65a874517b82c9
+10	704	7377751960091002	CMakeFiles/Balls.dir/functions.cpp.obj	f1a0464413a1b786
+4	878	7521878697917718	CMakeFiles/Balls.dir/main.cpp.obj	cff4dbf5e09cc1ad
+879	1057	7521878699678131	Balls.exe	dc65a874517b82c9
